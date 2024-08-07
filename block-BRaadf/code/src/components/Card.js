@@ -1,3 +1,5 @@
+import React from "react";
+
 function Card({ isDarkMode }) {
   return (
     <div className="card_item">
